@@ -12,6 +12,7 @@ import Footer from './Components/Footer';
 
 
 */
+//Till now working properly
 
 function App() {
   return (
